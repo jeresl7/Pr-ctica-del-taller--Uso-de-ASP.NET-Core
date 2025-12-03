@@ -35,8 +35,5 @@ Este proyecto contiene la implementación de una **aplicación web** desarrollad
 - Un **IDE** como **Visual Studio** o **VS Code** para abrir y ejecutar el proyecto.
 - **SQL Server** o una base de datos compatible para almacenar la información.
 
-## Cómo Ejecutar el Proyecto
 
-1. Clona el repositorio:
-   ```bash
-   git clone https://github.com/MiguelAngelBonilla/Taller-ASP.NET-CORE.git
+
